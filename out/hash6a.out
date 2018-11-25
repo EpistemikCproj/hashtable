@@ -1,0 +1,136 @@
+
+// run 'hash6 <hash6a.in >hash6a.out'
+
+Enter as an integer how many nodes you wish to input: 
+Enter an integer value to input into the hash table: 
+Value:  1111 	 HashValue:     1 
+Enter an integer value to input into the hash table: 
+Value:   890 	 HashValue:     2 
+Enter an integer value to input into the hash table: 
+Value:  2222 	 HashValue:     2 
+Enter an integer value to input into the hash table: 
+Value:  3333 	 HashValue:     3 
+Enter an integer value to input into the hash table: 
+Value:   123 	 HashValue:    12 
+
+ Value         Hash Value 
+---------   ---------------
+ 1111 		     1 
+  890 		     2 
+ 2222 		     2 
+ 3333 		     3 
+  123 		    12 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value 234 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value 456 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value 567 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value 789 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ DELETED VALUE: 2222 
+
+ Value         Hash Value 
+---------   ---------------
+ 1111 		     1 
+  890 		     2 
+ 3333 		     3 
+  123 		    12 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value 753 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value 975 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value 4567 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value 6789 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value 432 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ DELETED VALUE: 123 
+
+ Value         Hash Value 
+---------   ---------------
+ 1111 		     1 
+  890 		     2 
+ 3333 		     3 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value 444 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value 567 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value -22 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value 456 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ DELETED VALUE: 3333 
+
+ Value         Hash Value 
+---------   ---------------
+ 1111 		     1 
+  890 		     2 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value 789 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value 543 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ DELETED VALUE: 1111 
+
+ Value         Hash Value 
+---------   ---------------
+  890 		     2 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ Value 0 not found in hash table! 
+
+ Enter a value to delete from the hash table (E to exit) : 
+
+ DELETED VALUE: 890 
+
+ Value         Hash Value 
+---------   ---------------
+
+ Table is now empty! 
+
+ Goodbye! 
+
